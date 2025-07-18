@@ -8,7 +8,7 @@ A macOS Shortcut + Python-based workflow that corrects grammar, spelling, and to
 
 - Fix grammar, spelling, and tone with ChatGPT
 - Works anywhere on macOS: Slack, Mail, Threads, Notes, etc.
-- Runs via a keyboard shortcut (`⌘ + ⇧ + G`)
+- Runs via a keyboard shortcut (`Ctrl + Shift + G (⌃⇧G)`)
 - No need to manually open ChatGPT or copy/paste to the browser
 - Sends a native macOS notification with the corrected text
 
@@ -61,7 +61,7 @@ To allow Shortcuts to simulate copy/paste and send keystrokes:
 
 ####  How to Use
 1.	Select text anywhere on your Mac (e.g., in Slack, Mail, Notes)
-2.	Press ⌘ + ⇧ + G (or the keyboard shortcut you assigned in Shortcuts)
+2.	Press Ctrl + Shift + G (⌃⇧G) (or the keyboard shortcut you assigned in Shortcuts)
 3.	Wait for a few seconds
 4.	When you see a notification with the corrected text:
     - Press ⌘ + V to paste the corrected version
