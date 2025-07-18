@@ -16,7 +16,7 @@ SYSTEM_PROMPT = os.getenv(
 
 def correct_text(input_text):
     if not API_KEY:
-        return "Error: OPENAI_API_KEY is not set."
+        return "Error: OPENAI_API_KEY is not set. Please follow the instructions from README.md's 'Open and configure the macOS Shortcut' section."
 
     headers = {
         "Authorization": f"Bearer {API_KEY}",
