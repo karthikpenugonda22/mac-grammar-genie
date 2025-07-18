@@ -40,6 +40,9 @@ pip3 install -r requirements.txt
 
 ### 3. Open and configure the macOS Shortcut
 *	Open the Mac-Shortcut.shortcut file to import it into the Shortcuts app
+  ```bash
+  open Mac-Shortcut.shortcut
+  ```
 *	Edit the shortcut:
 *	Find the “Run Shell Script” action
 * Replace the placeholders in the script with your details:
