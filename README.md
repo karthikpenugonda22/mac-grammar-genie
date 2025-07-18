@@ -71,6 +71,6 @@ Example:
 - Output: I think this is not going to work, but I'm trying anyway.
 
 ####  Environment Variables Used
-•	OPENAI_API_KEY — Your OpenAI secret key
-•	OPENAI_MODEL (optional) — Defaults to gpt-3.5-turbo
-•	MAC_GRAMMAR_GENIE_PROMPT (optional) — Custom instruction prompt for GPT
+*	OPENAI_API_KEY — Your OpenAI secret key
+*	OPENAI_MODEL (optional) — Defaults to gpt-3.5-turbo
+*	MAC_GRAMMAR_GENIE_PROMPT (optional) — Custom instruction prompt for GPT
